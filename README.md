@@ -3,7 +3,7 @@
 
 🎓 Tengo **21 años** y actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 💻 Apasionado por la tecnología y el aprendizaje constante.  
-<img src="github1.png" alt="GitHub" align="right" width="200"/>  
+<img src="github1.png.png" alt="GitHub" align="right" width="200"/>  
 
 ---
 
