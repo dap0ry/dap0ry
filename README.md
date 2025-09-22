@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # 👋 Hola, soy Daniel Poza Rivera  
 
 🎓 Tengo **21 años** y actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
