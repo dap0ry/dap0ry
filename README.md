@@ -2,7 +2,7 @@
 
   <!-- Imagen izquierda -->
   <div>
-    <img src="github21.png.png" alt="Profile Image" width="400" style="border:0;"/>
+    <img src="github1.png.png" alt="Profile Image" width="400" style="border:0;"/>
   </div>
 
   <!-- Texto derecha -->
