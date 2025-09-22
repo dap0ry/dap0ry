@@ -1,28 +1,28 @@
-<table>
-  <tr>
-    <!-- Columna izquierda: imagen grande -->
-    <td>
-      <img src="github1.png.png" alt="Profile Image" width="400"/>
-    </td>
+<div style="display: flex; align-items: flex-start;">
 
-    <!-- Columna derecha: información personal -->
-    <td style="vertical-align: top; padding-left: 20px;">
-      # 👋 Hi, I'm Daniel Poza Rivera
+  <!-- Imagen izquierda -->
+  <div>
+    <img src="github21.png.png" alt="Profile Image" width="400" style="border:0;"/>
+  </div>
 
-      🎓 I am **21 years old** and currently studying **Multiplatform Application Development (DAM)**  
-      💻 Passionate about technology and continuous learning.
+  <!-- Texto derecha -->
+  <div style="margin-left: 20px;">
+    # 👋 Hi, I'm Daniel Poza Rivera
 
-      ## 🌱 About Me
-      - 🔹 DAM student focused on growing as a developer.
-      - 🔹 I enjoy experimenting with new technologies and frameworks.
-      - 🔹 I aim to create projects that add value and help me improve every day.
+    🎓 I am **21 years old** and currently studying **Multiplatform Application Development (DAM)**  
+    💻 Passionate about technology and continuous learning.
 
-      ## 🚀 Hobbies
-      ✨ One of my main passions is **creating websites to improve productivity**.  
-      I love designing tools that make life easier and optimize people's time.
-    </td>
-  </tr>
-</table>
+    ## 🌱 About Me
+    - 🔹 DAM student focused on growing as a developer.
+    - 🔹 I enjoy experimenting with new technologies and frameworks.
+    - 🔹 I aim to create projects that add value and help me improve every day.
+
+    ## 🚀 Hobbies
+    ✨ One of my main passions is **creating websites to improve productivity**.  
+    I love designing tools that make life easier and optimize people's time.
+  </div>
+
+</div>
 
 ---
 
