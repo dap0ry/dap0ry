@@ -1,16 +1,37 @@
 ## Hi there 👋
 
 <!--
-**dap0ry/dap0ry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Daniel Poza Rivera  
 
-Here are some ideas to get you started:
+🎓 Tengo **21 años** y actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+💻 Apasionado por la tecnología y el aprendizaje constante.  
+<img src="github1.png" alt="GitHub" align="right" width="200"/>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Sobre mí  
+- 🔹 Estudiante de **DAM** enfocado en crecer como desarrollador.  
+- 🔹 Me gusta experimentar con nuevas tecnologías y frameworks.  
+- 🔹 Busco crear proyectos que aporten valor y me hagan mejorar día a día.  
+
+---
+
+## 🚀 Aficiones  
+✨ Una de mis principales pasiones es **crear páginas web orientadas a mejorar la productividad**.  
+Me encanta diseñar herramientas que hagan la vida más fácil y optimicen el tiempo de las personas.  
+
+---
+
+## 🖼️  
+<img src="github2.png" alt="Imagen extra" width="600"/>  
+
+---
+
+## 📜 Certificados  
+
+<p align="center">
+  <a href="#">☑️ Python</a> • 
+  <a href="#">☑️ Ciberseguridad</a> • 
+  <a href="#">☑️ Git & GitHub</a> • 
+  <a href="#">☑️ Desarrollo Web</a>
+</p>
