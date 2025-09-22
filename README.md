@@ -1,35 +1,36 @@
+<table>
+  <tr>
+    <!-- Columna izquierda: imagen grande -->
+    <td>
+      <img src="github1.png.png" alt="Profile Image" width="400"/>
+    </td>
 
-# 👋 Hola, soy Daniel Poza Rivera  
+    <!-- Columna derecha: información personal -->
+    <td style="vertical-align: top; padding-left: 20px;">
+      # 👋 Hi, I'm Daniel Poza Rivera
 
-🎓 Tengo **21 años** y actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-💻 Apasionado por la tecnología y el aprendizaje constante.  
-<img src="github1.png.png" alt="GitHub" align="right" width="200"/>  
+      🎓 I am **21 years old** and currently studying **Multiplatform Application Development (DAM)**  
+      💻 Passionate about technology and continuous learning.
+
+      ## 🌱 About Me
+      - 🔹 DAM student focused on growing as a developer.
+      - 🔹 I enjoy experimenting with new technologies and frameworks.
+      - 🔹 I aim to create projects that add value and help me improve every day.
+
+      ## 🚀 Hobbies
+      ✨ One of my main passions is **creating websites to improve productivity**.  
+      I love designing tools that make life easier and optimize people's time.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌱 Sobre mí  
-- 🔹 Estudiante de **DAM** enfocado en crecer como desarrollador.  
-- 🔹 Me gusta experimentar con nuevas tecnologías y frameworks.  
-- 🔹 Busco crear proyectos que aporten valor y me hagan mejorar día a día.  
-
----
-
-## 🚀 Aficiones  
-✨ Una de mis principales pasiones es **crear páginas web orientadas a mejorar la productividad**.  
-Me encanta diseñar herramientas que hagan la vida más fácil y optimicen el tiempo de las personas.  
-
----
-
-## 🖼️  
-<img src="github2.png" alt="Imagen extra" width="600"/>  
-
----
-
-## 📜 Certificados  
+## 📜 Certificates
 
 <p align="center">
   <a href="#">☑️ Python</a> • 
-  <a href="#">☑️ Ciberseguridad</a> • 
+  <a href="#">☑️ Cybersecurity</a> • 
   <a href="#">☑️ Git & GitHub</a> • 
-  <a href="#">☑️ Desarrollo Web</a>
+  <a href="#">☑️ Web Development</a>
 </p>
