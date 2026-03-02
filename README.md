@@ -4,22 +4,14 @@
 
 # 👋 Hola, soy Daniel Poza
 
-### Estudiante de DAM · Apasionado del desarrollo de software
+###Estudiante de DAM · Apasionado del desarrollo de software
 
-[![GitHub followers](https://img.shields.io/github/followers/dap0ry?style=for-the-badge&color=0d1117&labelColor=161b22&logo=github)](https://github.com/dap0ry)
-[![Profile views](https://komarev.com/ghpvc/?username=dap0ry&style=for-the-badge&color=0d1117&labelColor=161b22)](https://github.com/dap0ry)
-
-</div>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dap0ry&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&rank_icon=github" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dap0ry&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" height="180"/>
+<img src="github1.png" width="400"/>
 
 </div>
 
@@ -28,8 +20,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dap0ry&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="150"/>
 
 </div>
-
----
 
 ## 🛠️ Habilidades
 
