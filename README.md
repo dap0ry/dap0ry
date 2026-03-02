@@ -7,15 +7,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dap0ry&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
 <img src="github1.png" width="400"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dap0ry&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="150"/>
 
 </div>
 
