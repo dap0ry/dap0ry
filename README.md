@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Daniel Poza
 
-###Estudiante de DAM · Apasionado del desarrollo de software
+### Estudiante de DAM · Apasionado del desarrollo de software
 
 
 <div align="center">
