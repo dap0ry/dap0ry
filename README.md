@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="github1.png" width="400"/>
-
 # 👋 Hola, soy Daniel Poza
 
 ###Estudiante de DAM · Apasionado del desarrollo de software
