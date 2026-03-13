@@ -12,19 +12,19 @@
 
 <br/>
 
-<img align="left" src="github2.png" width="320" style="margin-right:20px"/>
+<img align="left" src="github2.png" width="320"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dap0ry&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&radius=6" width="480"/>
-
-<div align="center">
-
-&nbsp;&nbsp;&nbsp; `i have` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `i'm learning` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `in the memory banks`
-
-[![Skills](https://skillicons.dev/icons?i=java,kotlin,python,mysql&theme=dark)](https://skillicons.dev)&nbsp;[![Learning](https://skillicons.dev/icons?i=spring,docker,androidstudio,firebase&theme=dark)](https://skillicons.dev)&nbsp;[![Radar](https://skillicons.dev/icons?i=kubernetes,aws,react,nodejs&theme=dark)](https://skillicons.dev)
-
-[![Skills2](https://skillicons.dev/icons?i=git,linux,vscode,md&theme=dark)](https://skillicons.dev)&nbsp;[![Learning2](https://skillicons.dev/icons?i=airtable,airflow,jenkins&theme=dark)](https://skillicons.dev)
+<!-- BLOQUE 1: Commit squares -->
+<img src="https://ghchart.rshah.org/39d353/dap0ry" width="480"/>
 
 <br/>
+
+<!-- BLOQUE 2: Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=dap0ry&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" width="235"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dap0ry&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="235"/>
+
+<br/>
+
+<div align="center">
 
 👤 &nbsp; **Daniel Poza Rivera**<br/>
 🎓 &nbsp; Desarrollo de Aplicaciones Multiplataforma<br/>
@@ -41,3 +41,12 @@
 </div>
 
 <br clear="left"/>
+
+<br/>
+
+<!-- ICONOS EN FILAS LARGAS PEQUEÑAS -->
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=java,kotlin,python,mysql,git,linux,vscode,md,spring,docker,androidstudio,firebase,kubernetes,aws,react,nodejs&theme=dark&perline=16)](https://skillicons.dev)
+
+</div>
