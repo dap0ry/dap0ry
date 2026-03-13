@@ -1,92 +1,60 @@
 <div align="center">
-
-# 👋 Hola, soy Daniel Poza
-
-### Estudiante de DAM · Apasionado del desarrollo de software
-
-
-<div align="center">
-
-<img src="github1.png" width="400"/>
-
-</div>
-
-## 🛠️ Habilidades
-
-### Lo que manejo
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,mysql,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### Aprendiendo
-
-<div align="center">
-
-[![Learning](https://skillicons.dev/icons?i=spring,docker,androidstudio,firebase&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### En el radar
-
-<div align="center">
-
-[![On radar](https://skillicons.dev/icons?i=kubernetes,aws,react,nodejs&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🎓 Sobre mí
-
+ 
+<!-- LAYOUT PRINCIPAL -->
+<table border="0" cellspacing="0" cellpadding="0" style="border:none">
+<tr>
+<!-- COLUMNA IZQUIERDA: imagen + enlaces -->
+<td width="320" valign="top" align="center" style="border:none; padding-right:16px">
+ 
+<br/>
+ 
+<!-- Enlace portfolio arriba -->
+[![Portfolio](https://img.shields.io/badge/🌐_Mi_Portfolio-danielpozarivera.es-0d1117?style=for-the-badge&labelColor=0d1117&color=238636)](https://danielpozarivera.es)
+ 
+<br/><br/>
+ 
+<!-- Imagen principal -->
+<img src="github2.png" width="280"/>
+ 
+<br/><br/>
+ 
+<!-- LinkedIn y Email abajo -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-poza)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@danielpozarivera.es)
+ 
+</td>
+ 
+<!-- COLUMNA DERECHA: 3 bloques -->
+<td valign="top" style="border:none; padding-left:16px">
+ 
+<!-- BLOQUE 1: GitHub Stats -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dap0ry&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&radius=6" width="100%"/>
+ 
+<br/>
+ 
+<!-- BLOQUE 2: Skills -->
+ 
+**i have** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **i'm learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **in the memory banks**
+ 
+[![Skills](https://skillicons.dev/icons?i=java,kotlin,python,mysql,git,linux,vscode,md&theme=dark&perline=4)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=spring,docker,androidstudio,firebase,airtable,airflow,jenkins&theme=dark&perline=4)](https://skillicons.dev)
+[![Radar](https://skillicons.dev/icons?i=kubernetes,aws,react,nodejs&theme=dark&perline=4)](https://skillicons.dev)
+ 
+<br/>
+ 
+<!-- BLOQUE 3: Sobre mí -->
+ 
 ```yaml
-nombre:     Daniel Poza
-estudios:   Desarrollo de Aplicaciones Multiplataforma (DAM)
-estado:     Estudiando & construyendo proyectos 🚀
-intereses:
-  - Desarrollo Android
-  - Backend con Java / Spring
-  - Bases de datos
-  - DevOps (en progreso...)
-buscando:   Prácticas / colaboraciones en proyectos reales
+👤  Daniel Poza Rivera
+🎓  Desarrollo de Aplicaciones Multiplataforma
+📍  España
+🚀  Construyendo proyectos reales mientras estudio
+💡  Intereses: Android · Backend Java · DevOps
+🔍  Buscando prácticas y colaboraciones
 ```
-
----
-
-## 💻 IDEs y herramientas que uso
-
-<div align="center">
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📬 Contacto
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario-github)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dap0ry&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-
-*"El código que funciona es solo el comienzo."*
-
+ 
+</td>
+</tr>
+</table>
+ 
 </div>
