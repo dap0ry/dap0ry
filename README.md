@@ -37,10 +37,10 @@
 
 <br/>
 
-<!-- ICONOS EN DOS FILAS CENTRADAS -->
+<!-- ICONOS EN UNA SOLA LÍNEA -->
 <div align="center">
 
-[![Row1](https://skillicons.dev/icons?i=java,js,html,css,react,kotlin,cs,bash,linux,mongodb,mysql,python,unity,dotnet,powershell,visualstudio&theme=dark&perline=8)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=java,js,html,css,react,kotlin,cs,bash,linux,mongodb,mysql,python,unity,dotnet,powershell,visualstudio&theme=dark&perline=16)](https://skillicons.dev)
 
 </div>
 
@@ -49,9 +49,6 @@
 <!-- REPOS DESTACADOS -->
 <div align="center">
 
-[![OverDriveXApi](https://github-readme-stats.vercel.app/api/pin/?username=dap0ry&repo=OverDriveXApi&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9)](https://github.com/dap0ry/OverDriveXApi)
-[![OverDriveXWeb](https://github-readme-stats.vercel.app/api/pin/?username=dap0ry&repo=OverDriveXWeb&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9)](https://github.com/dap0ry/OverDriveXWeb)
-
-[![OverDriveXAndroid](https://github-readme-stats.vercel.app/api/pin/?username=dap0ry&repo=OverDriveXAndroid&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9)](https://github.com/dap0ry/OverDriveXAndroid)
+[![overdrive](https://github-readme-stats.vercel.app/api/pin/?username=dap0ry&repo=overdrive&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9)](https://github.com/dap0ry/overdrive)
 
 </div>
