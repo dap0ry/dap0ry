@@ -35,9 +35,13 @@
 
 <br/>
 
-<!-- ICONOS EN FILA LARGA PEQUEÑA -->
+<br/>
+
+<!-- ICONOS EN DOS FILAS CENTRADAS -->
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=java,kotlin,python,mysql,git,linux,vscode,md,spring,docker,androidstudio,firebase,kubernetes,aws,react,nodejs&theme=dark&perline=16)](https://skillicons.dev)
+[![Row1](https://skillicons.dev/icons?i=java,js,html,css,react,kotlin,cs,bash&theme=dark&perline=8)](https://skillicons.dev)
+
+[![Row2](https://skillicons.dev/icons?i=linux,mongodb,mysql,python,unity,dotnet,powershell,visualstudio&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
