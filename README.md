@@ -14,16 +14,21 @@
 
 <img align="left" src="github2.png" width="320"/>
 
-<!-- BLOQUE 1: Commit squares -->
-<img src="https://ghchart.rshah.org/39d353/dap0ry" width="480"/>
+<!-- BLOQUE 1: Snake contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dap0ry/dap0ry/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dap0ry/dap0ry/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/dap0ry/dap0ry/output/github-contribution-grid-snake-dark.svg" width="480"/>
+</picture>
 
 <br/>
 
-<!-- BLOQUE 2: Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=dap0ry&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" width="235"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dap0ry&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="235"/>
+<!-- BLOQUE 2: Gráfica de actividad tipo líneas -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dap0ry&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d35322&hide_border=true&custom_title=Actividad%20de%20Contribuciones&radius=6" width="480"/>
 
 <br/>
 
+<!-- BLOQUE 3: Descripción centrada -->
 <div align="center">
 
 👤 &nbsp; **Daniel Poza Rivera**<br/>
@@ -44,9 +49,9 @@
 
 <br/>
 
-<!-- ICONOS EN FILAS LARGAS PEQUEÑAS -->
+<!-- ICONOS EN FILA LARGA PEQUEÑA -->
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=java,kotlin,python,mysql,git,linux,vscode,md,spring,docker,androidstudio,firebase,kubernetes,aws,react,nodejs&theme=dark&perline=16)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=java,kotlin,python,mysql,git,linux,vscode,md,spring,docker,androidstudio,firebase,kubernetes,aws,react,nodejs&theme=dark&perline=16)](https://skillicons.dev)
 
 </div>
