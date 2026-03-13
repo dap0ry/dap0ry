@@ -29,17 +29,19 @@
 <!-- ACTUALMENTE TRABAJANDO EN -->
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="8">
+<table style="border:none;border-collapse:collapse" border="0" cellspacing="0" cellpadding="8">
 <tr>
-<td valign="middle" align="right">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=8b949e&center=true&vCenter=true&width=200&lines=actualmente+trabajando+en" alt="working on"/>
+<td valign="middle" align="center" style="border:none">
+
+[![OverDriveX Preview](OverdrivexPreview.png)](https://over-drive-x-web.vercel.app/index.html)
+
 </td>
-<td valign="middle" align="left">
+<td valign="middle" align="left" style="border:none">
 
 [![overdrive](https://github-readme-stats.vercel.app/api/pin/?username=dap0ry&repo=overdrive&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9)](https://github.com/dap0ry/overdrive)
 
 </td>
-<td valign="middle" align="left">
+<td valign="middle" align="left" style="border:none">
 
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dap0ry&repo=overdrive&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=4&card_width=180)](https://github.com/dap0ry/overdrive)
 
