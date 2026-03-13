@@ -24,17 +24,7 @@
 
 <br/>
 
-<!-- BLOQUE 3: Descripción -->
 <div align="center">
-
-👤 &nbsp; **Daniel Poza Rivera**<br/>
-🎓 &nbsp; Desarrollo de Aplicaciones Multiplataforma<br/>
-📍 &nbsp; España<br/>
-🚀 &nbsp; Construyendo proyectos reales mientras estudio<br/>
-💡 &nbsp; Intereses: Android · Backend Java · DevOps<br/>
-🔍 &nbsp; Buscando prácticas y colaboraciones
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-poza)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@danielpozarivera.es)
