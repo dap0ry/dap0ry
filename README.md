@@ -14,21 +14,17 @@
 
 <img align="left" src="github2.png" width="320"/>
 
-<!-- BLOQUE 1: Snake contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dap0ry/dap0ry/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dap0ry/dap0ry/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/dap0ry/dap0ry/output/github-contribution-grid-snake-dark.svg" width="480"/>
-</picture>
+<!-- BLOQUE 1: Streak stats (barras de racha) -->
+<img src="https://streak-stats.demolab.com?user=dap0ry&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" width="480"/>
 
 <br/>
 
-<!-- BLOQUE 2: Gráfica de actividad tipo líneas -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dap0ry&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d35322&hide_border=true&custom_title=Actividad%20de%20Contribuciones&radius=6" width="480"/>
+<!-- BLOQUE 2: Stats + Top langs lado a lado -->
+<img src="https://github-readme-stats.vercel.app/api?username=dap0ry&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&rank_icon=github" width="232"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dap0ry&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=6" width="232"/>
 
 <br/>
 
-<!-- BLOQUE 3: Descripción centrada -->
+<!-- BLOQUE 3: Descripción -->
 <div align="center">
 
 👤 &nbsp; **Daniel Poza Rivera**<br/>
