@@ -33,7 +33,7 @@
 <tr>
 <td valign="middle" align="center" style="border:none">
 
-[![OverDriveX Preview](OverdrivexPreview.png)](https://over-drive-x-web.vercel.app/index.html)
+<a href="https://over-drive-x-web.vercel.app/index.html"><img src="OverdrivexPreview.png" width="180"/></a>
 
 </td>
 <td valign="middle" align="left" style="border:none">
